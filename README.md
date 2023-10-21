@@ -1,8 +1,6 @@
 # Kaggle-competitions
 project practices on Kaggle
 
-（以下目录参考同济子豪兄）
-
 ## Kaggle初学者必刷
 泰坦尼克号生还者预测：https://www.kaggle.com/competitions/titanic
 
