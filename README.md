@@ -143,4 +143,4 @@ DeepFake检测：https://www.kaggle.com/competitions/deepfake-detection-challeng
 
 ## 备注
 数据清洗 -> 特征挖掘/特征工程 -> 搭建模型 -> 训练模型 -> 给出预测 -> 提交结果；
-每个比赛都有discussion和code的板块，在discussion板块，你可以在讨论中学习别人的数据科学知识。在code的板块，你可以直接学习借鉴大神的代码。
+每个比赛都有discussion和code的板块，在discussion板块，可以在讨论中学习别人的数据科学知识。在code的板块，可以直接学习借鉴大神的代码。
